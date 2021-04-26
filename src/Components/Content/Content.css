@@ -1,0 +1,12 @@
+.cont{
+ background-color: #3500D3;
+ border-style: solid;
+ border-color: #240090;
+ margin: 5px;
+ 
+}
+.leader{
+    text-align: right;
+    margin-right: 50px;
+    color: white;
+}

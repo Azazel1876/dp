@@ -1,0 +1,10 @@
+.nav{
+    background-color: #3500D3 ;
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    border-style: solid;
+    border-color: #240090  ;
+    margin: 5px;
+    color: white;
+}
